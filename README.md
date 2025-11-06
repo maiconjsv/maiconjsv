@@ -1,10 +1,8 @@
 # 👋 Hey there! I'm Maicon Vieira
-
+![cat coding]<img src="https://media.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif" alt="Funny Cat" width="300" height="200">
 ### 💡 About Me
 🌱 Currently learning: **React.JS**, **Python**, and **JavaScript**  
-💼 Working on: Solus and EvoluLab
-🎯 Goal for 2026: My own Business
-🧠 Fun fact: I once built a bot that tells dad jokes 😆  
+💼 Working on: Solus 
 
 ---
 

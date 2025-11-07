@@ -1,5 +1,4 @@
 # 👋 Hey there! I'm Maicon Vieira
-<img src="https://media.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif" alt="Funny Cat" width="300" height="200">
 ### 💡 About Me
 🌱 Currently learning: **React.JS**, **Python**, and **JavaScript**  
 💼 Working on: Solus 
@@ -14,7 +13,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 
-
+<img src="https://media.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif" alt="Funny Cat" width="300" height="200">
 ---
 
 ### 📈 GitHub Stats

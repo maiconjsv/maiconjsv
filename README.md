@@ -23,13 +23,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maiconjsv&hide=html,css&layout=compact&theme=tokyonight)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=maiconjsv&theme=tokyonight)
 
-<p align="center">
-  <img
-    src="https://profile-counter.glitch.me/iuricode/count.svg"
-    alt="Número de visitantes no perfil"
-  />
-</p>
-
 
 ---
 ---
@@ -38,3 +31,11 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/YOURUSERNAME)
 [![Twitter](https://img.shields.io/badge/Twitter-black?logo=x&logoColor=white)](https://x.com/YOURUSERNAME)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=firefox&logoColor=white)](https://yourwebsite.com)
+
+<p align="center">
+  <img
+    src="https://profile-counter.glitch.me/maiconjsv/count.svg"
+    alt="Número de visitantes no perfil"
+  />
+</p>
+

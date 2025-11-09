@@ -6,7 +6,8 @@
 <p>I’m a Technical IT Analyst currently working at **Solus**.</p>
 
 
-----++--------------------------------------++----------------------------
+---
+---
 ### 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
@@ -32,10 +33,5 @@
 [![Twitter](https://img.shields.io/badge/Twitter-black?logo=x&logoColor=white)](https://x.com/YOURUSERNAME)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=firefox&logoColor=white)](https://yourwebsite.com)
 
-<p align="center">
-  <img
-    src="https://profile-counter.glitch.me/maiconjsv/count.svg"
-    alt="Número de visitantes no perfil"
-  />
-</p>
+
 

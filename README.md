@@ -1,4 +1,11 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=maiconjsv&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="ilustração do status do github">
+<h1 align="center"><b>Hi , I'm Maicon Vieira</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<!--  -->A
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hello+,+World+!&hearts;++;Self-taught+Front-End+Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+</p>
+
+
+<br>
 
 ### Hey, There! My name is **Maicon Vieira** !
 <p>I’m a Technical IT Analyst currently working at <strong>Solus</strong>.</p>

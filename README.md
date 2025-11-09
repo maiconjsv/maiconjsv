@@ -4,7 +4,7 @@
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=maiconjsv&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
-<p> I am  Technical IT Analyst, working in **Solus<br/>.</p>
+<p>I’m a Technical IT Analyst currently working at **Solus**.</p>
 
 ### 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)

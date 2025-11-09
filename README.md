@@ -15,7 +15,7 @@
 
 ## 🧠 About Me
 
-💼 Working as a **Technical IT Analyst** at **[Solus Informática](https://www.solus.inf.br/)**  
+💼 Working as a **Technical IT Analyst** at **[Solus Informática](https://novo.solus.inf.br/)**  
 🌐 Co-founder of **SoluLab**, a small dev studio where we create **landing pages** and **institutional websites** for clients  
 🎓 Currently studying **Analysis and Systems Development** at **Anhanguera University**  
 📘 Also taking **Harvard’s CS50** course in **Computer Science**  

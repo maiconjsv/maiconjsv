@@ -5,6 +5,8 @@
 
 <p>I’m a Technical IT Analyst currently working at **Solus**.</p>
 
+
+----++--------------------------------------++----------------------------
 ### 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
@@ -20,6 +22,14 @@
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=maiconjsv&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maiconjsv&hide=html,css&layout=compact&theme=tokyonight)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=maiconjsv&theme=tokyonight)
+
+<p align="center">
+  <img
+    src="https://profile-counter.glitch.me/iuricode/count.svg"
+    alt="Número de visitantes no perfil"
+  />
+</p>
+
 
 ---
 ---

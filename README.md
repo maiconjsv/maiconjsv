@@ -38,7 +38,7 @@
 ![Delphi](https://img.shields.io/badge/Delphi-000?style=for-the-badge&logo=delphi)
 
 ### 🧩 Tools & Platforms
-![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker)
+<!--![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker)-->
 ![Firebase](https://img.shields.io/badge/Firebase-000?style=for-the-badge&logo=firebase)
 ![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux)
 ![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)

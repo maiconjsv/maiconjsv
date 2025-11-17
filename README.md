@@ -48,7 +48,6 @@
 
 ## 🌱 Currently Exploring
 - ⚛️ **React.js** for modern front-end development  
-- 🟢 **Node.js** for scalable back-end services  
 - ☁️ Cloud hosting and deployment with **Docker + Firebase**  
 
 ---
@@ -63,12 +62,6 @@
 
 ---
 
-## ✨ A Little More About Me
-- 💬 Ask me about **web development**, **automation**, or **Linux**  
-- 🎨 I love designing modern interfaces with my teammate from **SoluLab**  
-- 🎧 Code + coffee + lo-fi = my perfect combo  
-
----
 
 <p align="center">
   <i>Let’s connect and build something awesome together!</i><br><br>

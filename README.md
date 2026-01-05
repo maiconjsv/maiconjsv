@@ -53,14 +53,17 @@
 ---
 
 ## 📊 GitHub Stats
-
-<p align="center">
 ![Maicon's GitHub stats](https://github-readme-stats.vercel.app/api?username=maiconjsv&show_icons=true&theme=tokyonight)
-<img height="180em" src="https://github-readme-stats-maiconjsv-v.vercel.app/api/top-langs/?username=maiconjsv&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" />
-
-</p>
 
 ---
+
+## 🔥 GitHub Streak
+![GitHub Streak](https://streak-stats.demolab.com?user=maiconjsv&theme=tokyonight)
+
+---
+
+## 💻 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maiconjsv&layout=compact&theme=tokyonight)
 
 
 <p align="center">

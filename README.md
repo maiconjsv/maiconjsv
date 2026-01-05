@@ -55,7 +55,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats-maiconjsv-v.vercel.app/api?username=maiconjsv&show_icons=true&theme=tokyonight&hide_border=true" />
+![Maicon's GitHub stats](https://github-readme-stats.vercel.app/api?username=maiconjsv&show_icons=true&theme=tokyonight)
 <img height="180em" src="https://github-readme-stats-maiconjsv-v.vercel.app/api/top-langs/?username=maiconjsv&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" />
 
 </p>

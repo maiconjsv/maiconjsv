@@ -16,14 +16,9 @@
 ## 🧠 About Me
 
 💼 Working as a **Technical IT Analyst** at **[Solus Informática](https://novo.solus.inf.br/)**  
-🌐 Co-founder of **SoluLab**, a small dev studio where we create **landing pages** and **institutional websites** for clients  
 🎓 Currently studying **Analysis and Systems Development** at **Anhanguera University**  
 📘 Also taking **Harvard’s CS50** course in **Computer Science**  
-🌱 Currently learning **React.js** and **Node.js**  
-🐧 Passionate about **Linux**, clean code, and scalable solutions  
-
-> “Technology is best when it brings people together — and I code to make that happen.”
-
+🌱 Currently learning **C** and **Lua**  
 ---
 
 ## ⚙️ Tech Stack
@@ -43,14 +38,6 @@
 ![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux)
 ![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
 ![VS Code](https://img.shields.io/badge/VS%20Code-000?style=for-the-badge&logo=visualstudiocode)
-
----
-
-## 🌱 Currently Exploring
-- ⚛️ **React.js** for modern front-end development  
-- ☁️ Cloud hosting and deployment with **Docker + Firebase**  
-
----
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maiconjsv&show_icons=true&hide_border=true)
@@ -72,4 +59,3 @@
 
 ---
 
-⭐ **“Code. Learn. Repeat.”**

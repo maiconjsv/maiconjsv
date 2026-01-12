@@ -24,7 +24,7 @@
 ## ⚙️ Tech Stack
 
 ### 🖋️ Languages & Frameworks
-![C](https://img.shields.io/badge/Delphi-000?style=for-the-badge&logo=c)
+![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c)
 ![Delphi](https://img.shields.io/badge/Delphi-000?style=for-the-badge&logo=delphi)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)

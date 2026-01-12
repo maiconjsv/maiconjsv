@@ -24,13 +24,13 @@
 ## ⚙️ Tech Stack
 
 ### 🖋️ Languages & Frameworks
+![C](https://img.shields.io/badge/Delphi-000?style=for-the-badge&logo=c)
+![Delphi](https://img.shields.io/badge/Delphi-000?style=for-the-badge&logo=delphi)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
-![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3)
 ![Flask](https://img.shields.io/badge/Flask-000?style=for-the-badge&logo=flask)
 ![PL/SQL](https://img.shields.io/badge/PLSQL-000?style=for-the-badge&logo=oracle)
-![Delphi](https://img.shields.io/badge/Delphi-000?style=for-the-badge&logo=delphi)
 
 ### 🧩 Tools & Platforms
 <!--![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker)-->

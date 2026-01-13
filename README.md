@@ -33,10 +33,6 @@
 
 
 <p align="center">
-  <i>Let’s connect and build something awesome together!</i><br><br>
-  <a href="https://github.com/maiconjsv">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
-  </a>
   <a href="mailto:maiconjnsv@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>

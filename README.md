@@ -1,7 +1,5 @@
 <h1 align="center">👋 Hey, I'm Maicon Vieira</h1>
 
-<h3 align="center">💻 Technical IT Analyst | Web Developer | Lifelong Learner</h3>
-
 <p align="center">
   <a href="https://github.com/maiconjsv">
     <img src="https://komarev.com/ghpvc/?username=maiconjsv&label=Profile%20Views&color=brightgreen&style=flat-square" alt="Profile views"/>
@@ -10,16 +8,6 @@
     <img src="https://img.shields.io/github/followers/maiconjsv?label=Followers&style=social" alt="GitHub followers"/>
   </a>
 </p>
-
----
-
-## 🧠 About Me
-
-💼 Working as a **Technical IT Analyst** at **[Solus Informática](https://novo.solus.inf.br/)**  
-🎓 Currently studying **Analysis and Systems Development** at **Anhanguera University**  
-📘 Also taking **Harvard’s CS50** course in **Computer Science**  
-🌱 Currently learning **C** and **Lua**  
----
 
 ## ⚙️ Tech Stack
 

@@ -9,7 +9,10 @@
   </a>
 </p>
 
-## ⚙️ Tech Stack
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maiconjsv&show_icons=true&hide_border=true&theme=dracula)
+![Github languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maiconjsv&count_private=true&hide=html,css&layout=compact&theme=dracula)
 
 ### 🖋️ Languages & Frameworks
 ![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c)
@@ -27,9 +30,6 @@
 ![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
 ![VS Code](https://img.shields.io/badge/VS%20Code-000?style=for-the-badge&logo=visualstudiocode)
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maiconjsv&show_icons=true&hide_border=true&theme=dracula)
-![Github languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maiconjsv&count_private=true&hide=html,css&layout=compact&theme=dracula)
 
 
 

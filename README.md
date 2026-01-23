@@ -11,6 +11,7 @@
 
 
 ## 📊 GitHub Stats
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=maiconjsv&theme=react-dark)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maiconjsv&show_icons=true&hide_border=true&theme=dracula)
 ![Github languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maiconjsv&count_private=true&hide=html,css&layout=compact&theme=dracula)
 

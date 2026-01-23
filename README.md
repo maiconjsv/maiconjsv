@@ -28,8 +28,9 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-000?style=for-the-badge&logo=visualstudiocode)
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maiconjsv&show_icons=true&hide_border=true)
-![Github languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maiconjsv&count_private=true&hide=html,css&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maiconjsv&show_icons=true&hide_border=true&theme=dracula)
+![Github languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maiconjsv&count_private=true&hide=html,css&layout=compact&theme=dracula)
+
 
 
 

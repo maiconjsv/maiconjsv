@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/github/followers/maiconjsv?label=Followers&style=social" alt="GitHub followers"/>
   </a>
 </p>
- ![maiconvieira.dev](https://maiconvieira.dev)
+ ## https://maiconvieira.dev
 
 
 ### 🖋️ Languages & Frameworks

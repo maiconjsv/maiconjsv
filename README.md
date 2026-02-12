@@ -7,9 +7,11 @@
   <a href="https://github.com/maiconjsv?tab=followers">
     <img src="https://img.shields.io/github/followers/maiconjsv?label=Followers&style=social" alt="GitHub followers"/>
   </a>
+  <br>
+  <a href= "https://maiconvieira.dev" align="center">maiconvieira.dev</a>
 </p>
 
-<a href= "https://maiconvieira.dev" align="center">maiconvieira.dev</a>
+
 
 
 ### 🖋️ Languages & Frameworks

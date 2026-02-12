@@ -9,7 +9,7 @@
   </a>
 </p>
 
-<h2><a href= "https://maiconvieira.dev"></h2>
+<a href= "https://maiconvieira.dev" align="center"><h2>maiconvieira.dev</h2></a>
 
 
 ### 🖋️ Languages & Frameworks

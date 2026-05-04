@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://github.com/maiconjsv">
-    <img src="https://komarev.com/ghpvc/?username=maiconjsv&label=Souls%20Collected&color=darkred&style=flat-square" />
+    <img src="https://komarev.com/ghpvc/?username=maiconjsv&label=Souls%20Collected&color=8B0000&style=flat-square" />
   </a>
   <a href="https://github.com/maiconjsv?tab=followers">
     <img src="https://img.shields.io/github/followers/maiconjsv?label=Undead%20Allies&style=social" />

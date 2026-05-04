@@ -1,48 +1,64 @@
-<h1 align="center">👋 Hey, I'm Maicon Vieira</h1>
+<h1 align="center">🌑 Hey, I'm Maicon Vieira</h1>
+
+<p align="center">
+  <i>"The sun is a wondrous body. Like a magnificent father!"</i> ☀️  
+  <br>
+  — Solaire of Astora
+</p>
 
 <p align="center">
   <a href="https://github.com/maiconjsv">
-    <img src="https://komarev.com/ghpvc/?username=maiconjsv&label=Profile%20Views&color=brightgreen&style=flat-square" alt="Profile views"/>
+    <img src="https://komarev.com/ghpvc/?username=maiconjsv&label=Souls%20Collected&color=darkred&style=flat-square" />
   </a>
   <a href="https://github.com/maiconjsv?tab=followers">
-    <img src="https://img.shields.io/github/followers/maiconjsv?label=Followers&style=social" alt="GitHub followers"/>
+    <img src="https://img.shields.io/github/followers/maiconjsv?label=Undead%20Allies&style=social" />
   </a>
   <br>
-  <a href= "https://maiconvieira.dev" align="center">maiconvieira.dev</a>
+  <a href="https://maiconvieira.dev">🌐 maiconvieira.dev</a>
 </p>
 
+---
 
+### ⚔️ About Me
 
+💻 Developer focused on building and maintaining systems  
+🛠️ Experience with backend, web development, and bug fixing  
+🌱 Constantly learning and improving — one bonfire at a time  
+
+---
 
 ### 🖋️ Languages & Frameworks
-![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c)
-![Delphi](https://img.shields.io/badge/Delphi-000?style=for-the-badge&logo=delphi)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
-![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
-![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3)
-![Flask](https://img.shields.io/badge/Flask-000?style=for-the-badge&logo=flask)
-![PL/SQL](https://img.shields.io/badge/PLSQL-000?style=for-the-badge&logo=oracle)
+
+![C](https://img.shields.io/badge/C-0d0d0d?style=for-the-badge&logo=c&logoColor=white)
+![Delphi](https://img.shields.io/badge/Delphi-0d0d0d?style=for-the-badge&logo=delphi&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d0d0d?style=for-the-badge&logo=javascript)
+![Python](https://img.shields.io/badge/Python-0d0d0d?style=for-the-badge&logo=python)
+![CSS3](https://img.shields.io/badge/CSS3-0d0d0d?style=for-the-badge&logo=css3)
+![Flask](https://img.shields.io/badge/Flask-0d0d0d?style=for-the-badge&logo=flask)
+![PL/SQL](https://img.shields.io/badge/PLSQL-0d0d0d?style=for-the-badge&logo=oracle)
+
+---
 
 ### 🧩 Tools & Platforms
-<!--![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker)-->
-![Firebase](https://img.shields.io/badge/Firebase-000?style=for-the-badge&logo=firebase)
-![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux)
 
+![Firebase](https://img.shields.io/badge/Firebase-0d0d0d?style=for-the-badge&logo=firebase)
+![Linux](https://img.shields.io/badge/Linux-0d0d0d?style=for-the-badge&logo=linux)
 
+---
 
-
-
-
-
+### 📫 Contact
 
 <p align="center">
   <a href="mailto:maiconjnsv@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-8B0000?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/maiconjsv">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-1a1a1a?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
 ---
 
+<p align="center">
+  🔥 "Don't you dare go hollow."
+</p>

@@ -29,8 +29,8 @@
 
 ### 🖋️ Languages & Frameworks
 
-![C](https://img.shields.io/badge/C-0d0d0d?style=for-the-badge&logo=c&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0d0d0d?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/typescript-0d0d0d?style=for-the-badge&logo=typescript)
 ![Python](https://img.shields.io/badge/Python-0d0d0d?style=for-the-badge&logo=python)
 ![CSS3](https://img.shields.io/badge/CSS3-0d0d0d?style=for-the-badge&logo=css3)
 ![Flask](https://img.shields.io/badge/Flask-0d0d0d?style=for-the-badge&logo=flask)

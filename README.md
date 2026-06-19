@@ -30,7 +30,6 @@
 ### 🖋️ Languages & Frameworks
 
 ![C](https://img.shields.io/badge/C-0d0d0d?style=for-the-badge&logo=c&logoColor=white)
-![Delphi](https://img.shields.io/badge/Delphi-0d0d0d?style=for-the-badge&logo=delphi&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0d0d0d?style=for-the-badge&logo=javascript)
 ![Python](https://img.shields.io/badge/Python-0d0d0d?style=for-the-badge&logo=python)
 ![CSS3](https://img.shields.io/badge/CSS3-0d0d0d?style=for-the-badge&logo=css3)

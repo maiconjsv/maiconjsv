@@ -34,15 +34,15 @@
 ![Python](https://img.shields.io/badge/Python-0d0d0d?style=for-the-badge&logo=python)
 ![CSS3](https://img.shields.io/badge/CSS3-0d0d0d?style=for-the-badge&logo=css3)
 ![Flask](https://img.shields.io/badge/Flask-0d0d0d?style=for-the-badge&logo=flask)
-![SQL](https://img.shields.io/badge/Flask-0d0d0d?style=for-the-badge&logo=SQL)
+![SQL](https://img.shields.io/badge/SQL-0d0d0d?style=for-the-badge&logo=sql)
 ---
 
 ### 🧩 Tools & Platforms
 
 ![Firebase](https://img.shields.io/badge/Firebase-0d0d0d?style=for-the-badge&logo=firebase)
 ![Linux](https://img.shields.io/badge/Linux-0d0d0d?style=for-the-badge&logo=linux)
-![Supabase](https://img.shields.io/badge/Linux-0d0d0d?style=for-the-badge&logo=supabase)
-![Render](https://img.shields.io/badge/Linux-0d0d0d?style=for-the-badge&logo=render)
+![Supabase](https://img.shields.io/badge/Supabase-0d0d0d?style=for-the-badge&logo=supabase)
+![Render](https://img.shields.io/badge/Render-0d0d0d?style=for-the-badge&logo=render)
 ![PL/SQL](https://img.shields.io/badge/PLSQL-0d0d0d?style=for-the-badge&logo=oracle)
 ![SQLITE](https://img.shields.io/badge/sqlite-0d0d0d?style=for-the-badge&logo=sqlite)
 ---

@@ -34,7 +34,7 @@
 ![Python](https://img.shields.io/badge/Python-0d0d0d?style=for-the-badge&logo=python)
 ![CSS3](https://img.shields.io/badge/CSS3-0d0d0d?style=for-the-badge&logo=css3)
 ![Flask](https://img.shields.io/badge/Flask-0d0d0d?style=for-the-badge&logo=flask)
-![SQL](https://img.shields.io/badge/Flask-0d0d0d?style=for-the-badge&logo=SQL
+![SQL](https://img.shields.io/badge/Flask-0d0d0d?style=for-the-badge&logo=SQL)
 ---
 
 ### 🧩 Tools & Platforms

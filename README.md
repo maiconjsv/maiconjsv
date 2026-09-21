@@ -65,10 +65,10 @@ CLI tool for processing financial data and generating OFX files.
 ### Currently Learning
 
 * Linux & system administration
-* Database administration
+* Web development with Flask
 * Cloud infrastructure
 * Monitoring & observability
-* SAP / HANA
+  
 
 ---
 

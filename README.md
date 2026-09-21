@@ -59,8 +59,6 @@ Book management web application built with Flask and SQLite.
 **OFX Master**
 CLI tool for processing financial data and generating OFX files.
 
-**Depthgrave**
-Experimental game project built with C.
 
 ---
 

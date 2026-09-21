@@ -47,7 +47,6 @@ Currently focusing on expanding my knowledge in **Linux, SQL, monitoring, SAP an
 <img src="https://img.shields.io/badge/Linux-0d0d0d?style=for-the-badge&logo=linux&logoColor=FCC624" />
 <img src="https://img.shields.io/badge/Zabbix-0d0d0d?style=for-the-badge&logo=zabbix&logoColor=D00000" />
 <img src="https://img.shields.io/badge/Grafana-0d0d0d?style=for-the-badge&logo=grafana&logoColor=F46800" />
-<img src="https://img.shields.io/badge/SAP-0d0d0d?style=for-the-badge&logo=sap&logoColor=0FAAFF" />
 </p>
 
 ---

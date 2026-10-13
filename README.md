@@ -24,7 +24,7 @@ I'm a software developer interested in **backend development, databases, infrast
 
 I enjoy building things, solving problems and understanding how systems work under the hood.
 
-Currently focusing on expanding my knowledge in **Linux, SQL, monitoring, SAP and cloud infrastructure**.
+Currently focusing on expanding my knowledge in **Linux, SQL, monitoring, Java, Python and cloud infrastructure**.
 
 ---
 
@@ -55,6 +55,7 @@ Currently focusing on expanding my knowledge in **Linux, SQL, monitoring, SAP an
 
 **BookCase**
 Book management web application built with Flask and SQLite.
+<a href="https://bookcase.montiqtech.com.br">LinkedIn</a>
 
 **OFX Master**
 CLI tool for processing financial data and generating OFX files.

@@ -13,8 +13,11 @@ Developer focused on backend development, databases, and infrastructure. Always 
 ### Tech Stack
 
 **Languages:** JavaScript · TypeScript · Python · Delphi  
+
 **Backend:** Flask · NodeJS · Django
+
 **Databases:** Oracle · PL/SQL · PostgreSQL · Supabase 
+
 **Infrastructure:** Linux · Zabbix · Grafana · Cloud server
 
 ### Projects
